@@ -1,0 +1,1529 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>CommutationOfSRMUsingSensorFeedbackExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CommutationOfSRMUsingSensorFeedbackExample.html</file>
+    <metadata>ex10458661</metadata>
+    <thumbnail>data/mcb_srm_commutation_plot.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>ecoder</product>
+    <product>simscapeelectrical</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1708965012">mcb_srm_commutation_plot.png</file>
+    <file component="mcb" timestamp="1708965012">mcb_srm_comm_inverter_logic.png</file>
+    <file component="mcb" open="open" timestamp="1708965012">mcb_srm_spdctrl_f28379d.slx</file>
+    <file component="mcb" timestamp="1724704467">mcb_srm_spdctrl_host.slx</file>
+    <file component="mcb" timestamp="1731076851">mcb_srm_spdctrl_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RunIndustrialDriveUsingSensorlessFOCExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">SensorlessIndustrialDrive</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/RunIndustrialDriveUsingSensorlessFOCExample.html</file>
+    <metadata>ex10731276</metadata>
+    <thumbnail>data/mcb-pmsm-industrial-drive-illustration.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>stateflow</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1708965302">mcb-pmsm-industrial-drive-illustration.png</file>
+    <workFolder>MtrSwapSensorless</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>OperatingModeExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/OperatingModeExample.html</file>
+    <metadata>ex11776807</metadata>
+    <thumbnail>html/OperatingModeExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1724775935">mcb_host_mode_control.slx</file>
+    <file component="mcb" open="open" timestamp="1734084670">mcb_pmsm_operating_mode_f28379d.slx</file>
+    <file component="mcb" timestamp="1691688902">mcb_op_mode_sim_dashboard.png</file>
+    <file component="mcb" timestamp="1734084670">mcb_pmsm_foc_mode_script.m</file>
+    <file component="mcb" timestamp="1691688902">createBus.m</file>
+    <file component="mcb" timestamp="1691688902">mcb_SetOperatingModeExample.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SensorlessSixStepBLDCMotorExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex14886083</metadata>
+    <thumbnail>html/SensorlessSixStepBLDCMotorExample_02.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simscapeelectrical</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1736939243">BLDCSensorlessSixStepControl.slx</file>
+    <file component="mcb" timestamp="1736939243">BLDCSensorlessSixStepControlData.m</file>
+    <file component="mcb" timestamp="1736939243">BLDCSensorlessSixStepHost.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RunFieldOrientedControlModelPredictiveControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RunFieldOrientedControlModelPredictiveControlExample.html</file>
+    <metadata>ex16887487</metadata>
+    <thumbnail>data/mcb-mpc-pmsm-block-diag.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>mpc</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691770375">mcb-mpc-pmsm-block-diag.png</file>
+    <file component="mcb" timestamp="1691770375">mcb-mpc-pmsm-constraints.png</file>
+    <file component="mcb" timestamp="1691770375">mcb-mpc-pmsm-model-block-diag.png</file>
+    <file component="mcb" timestamp="1691770375">mcb-mpc-pmsm-plot.png</file>
+    <file component="mcb" timestamp="1701256281">mcb_pmsm_foc_host_model_f28379d.slx</file>
+    <file component="mcb" open="open" timestamp="1734083830">mcb_pmsm_foc_mpc_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1734083830">mcb_pmsm_foc_mpc_qep_f28379d_data.m</file>
+    <file component="mcb" timestamp="1701256281">mcb_getMPCObject.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PMSMParameterEstimationUsingRecommendedHardwareExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PMSMParameterEstimationUsingRecommendedHardwareExample.html</file>
+    <metadata>ex16887772</metadata>
+    <thumbnail>html/PMSMParameterEstimationUsingRecommendedHardwareExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1708966163">mcb-pmsm-param-est-blocks.png</file>
+    <file component="mcb" timestamp="1708966163">mcbEnumerations.sldd</file>
+    <file component="mcb" open="open" timestamp="1738060842">mcb_pmsm_param_est_f28379d.slx</file>
+    <file component="mcb" timestamp="1734708338">mcb_pmsm_param_est_f28379d_data.m</file>
+    <file component="mcb" timestamp="1738060842">mcb_pmsm_param_est_host_f28379d.slx</file>
+    <file component="mcb" timestamp="1708966163">mcb_param_est_StopFunc.m</file>
+    <workFolder>EstimatePMSMParamBlocks</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>AcimFocSensorlessExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/AcimFocSensorlessExample.html</file>
+    <metadata>ex19900735</metadata>
+    <thumbnail>html/AcimFocSensorlessExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1691776635">mcb_acim_foc_sensorless_f28379d.slx</file>
+    <file component="mcb" timestamp="1724777802">mcb_acim_foc_host_model.slx</file>
+    <file component="mcb" timestamp="1734700708">mcb_acim_foc_sensorless_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SpeedControlOfSRMWithOnlineDwellAngleComputationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SpeedControlOfSRMWithOnlineDwellAngleComputationExample.html</file>
+    <metadata>ex20829651</metadata>
+    <thumbnail>data/mcb-srm-dwell-comp-plot4.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simscapeelectrical</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691777259">mcb-srm-dwell-comp-plot1.png</file>
+    <file component="mcb" timestamp="1691777259">mcb-srm-dwell-comp-plot2.png</file>
+    <file component="mcb" timestamp="1691777259">mcb-srm-dwell-comp-plot3.png</file>
+    <file component="mcb" timestamp="1691777259">mcb-srm-dwell-comp-plot4.png</file>
+    <file component="mcb" timestamp="1669733575">mcb_srm_comm_inverter_logic.png</file>
+    <file component="mcb" open="open" timestamp="1691777259">mcb_srm_dwellctrl_f28379d.slx</file>
+    <file component="mcb" timestamp="1669733575">mcb_srm_spdctrl_host.slx</file>
+    <file component="mcb" timestamp="1734712709">mcb_srm_dwellctrl_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateMotorControlModelsForSelectedAlgoAndHardwareExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23075902</metadata>
+    <thumbnail>data/mcb-gen-model-cont-architecture.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <file component="mcb" timestamp="1707430110">Application.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationAbstraction.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationAbstractionFocQep.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationAbstractionOpenLoop.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationAbstractionQepcalib.slx</file>
+    <file component="mcb" timestamp="1714038029">ApplicationFocQep.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationOpenLoop.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationQepcalib.slx</file>
+    <file component="mcb" timestamp="1714038029">F280039CHostMotorControl.slx</file>
+    <file component="mcb" timestamp="1738354902">F280039CTargetMotorControl.slx</file>
+    <file component="mcb" timestamp="1734966923">F280039CTargetMotorControlData.m</file>
+    <file component="mcb" timestamp="1707430110">Motor.slx</file>
+    <file component="mcb" timestamp="1707430110">MotorFocQep.slx</file>
+    <file component="mcb" timestamp="1707430110">MotorPMSMOpenLoop.slx</file>
+    <file component="mcb" timestamp="1707430110">MotorPMSMQepcalib.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbstraction.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbstractionFocQep.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbstractionOpenLoop.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbstractionQepcalib.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIOutAbstraction.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIOutAbstractionFocQep.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIOutAbstractionOpenLoop.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIOutAbstractionQepcalib.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIRXFocQepHost.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIRXHost.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIRXOpenLoopHost.slx</file>
+    <file component="mcb" timestamp="1714038029">SCIRXQepcalibHost.slx</file>
+    <file component="mcb" timestamp="1714038029">SpeedgoatBaselineMotorControl.slx</file>
+    <file component="mcb" timestamp="1702481319">SpeedgoatBaselineMotorControlData.m</file>
+    <file component="mcb" timestamp="1707430110">SystemInputs.slx</file>
+    <file component="mcb" timestamp="1707430110">SystemInputsSimFocQep.slx</file>
+    <file component="mcb" timestamp="1707430110">SystemInputsSimOpenLoop.slx</file>
+    <file component="mcb" timestamp="1707430110">SystemInputsSimQepcalib.slx</file>
+    <file component="mcb" timestamp="1707430110">UserInputsFocQepHost.slx</file>
+    <file component="mcb" timestamp="1707430110">UserInputsHost.slx</file>
+    <file component="mcb" timestamp="1707430110">UserInputsOpenLoopHost.slx</file>
+    <file component="mcb" timestamp="1707430110">UserInputsQepcalibHost.slx</file>
+    <file component="mcb" timestamp="1702481319">mcbAddAlgorithmToList.m</file>
+    <file component="mcb" timestamp="1702481319">mcbAddHardwareToList.m</file>
+    <file component="mcb" timestamp="1738354902">mcbExampleConfigRepo.sldd</file>
+    <file component="mcb" timestamp="1734431899">mcbFocQepData.m</file>
+    <file component="mcb" timestamp="1702481319">mcbLoadHardwareAlgoInfo.m</file>
+    <file component="mcb" timestamp="1724778814">mcbOpenExample.m</file>
+    <file component="mcb" timestamp="1734431899">mcbOpenloopData.m</file>
+    <file component="mcb" timestamp="1734431899">mcbQepCalibData.m</file>
+    <file component="mcb" timestamp="1702481319">mcbRemoveAlgorithmFromList.m</file>
+    <file component="mcb" timestamp="1702481319">mcbRemoveHardwareFromList.m</file>
+    <file component="mcb" timestamp="1724778814">mcb-gen-model-cont-architecture.png</file>
+    <file component="mcb" timestamp="1690544971">speedgoat_IO397_50k_CI_02171_3.mat</file>
+    <file component="mcb" timestamp="1707430110">ApplAbFOCSL.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplFOCSL.slx</file>
+    <file component="mcb" timestamp="1736789502">ApplFOCSLHighPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplFOCSLLowPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplFOCSLSysControl.slx</file>
+    <file component="mcb" timestamp="1736789502">ApplicationAbstractionPEQep.slx</file>
+    <file component="mcb" timestamp="1736789502">ApplicationAbstractionPESL.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationFocQepHighPrio.slx</file>
+    <file component="mcb" timestamp="1714038029">ApplicationFocQepLowPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationFocQepSysControl.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationHighPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationLowPrio.slx</file>
+    <file component="mcb" timestamp="1736789502">ApplicationOpenLoopHighPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationOpenLoopLowPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationOpenLoopSysControl.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationPEQep.slx</file>
+    <file component="mcb" timestamp="1738165328">ApplicationPEQepHighPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationPEQepLowPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationPEQepSysControl.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationPESL.slx</file>
+    <file component="mcb" timestamp="1738165328">ApplicationPESLHighPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationPESLLowPrio.slx</file>
+    <file component="mcb" timestamp="1736789502">ApplicationPESLSysControl.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationQepcalibHighPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationQepcalibLowPrio.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationQepcalibSysControl.slx</file>
+    <file component="mcb" timestamp="1707430110">ApplicationSysControl.slx</file>
+    <file component="mcb" timestamp="1714038029">F2800137HostMotorControl.slx</file>
+    <file component="mcb" timestamp="1738354902">F2800137TargetMotorControl.slx</file>
+    <file component="mcb" timestamp="1734966923">F2800137TargetMotorControlData.m</file>
+    <file component="mcb" timestamp="1714038029">F28P650DHostMotorControl.slx</file>
+    <file component="mcb" timestamp="1738354902">F28P650DTargetMotorControl.slx</file>
+    <file component="mcb" timestamp="1734966923">F28P650DTargetMotorControlData.m</file>
+    <file component="mcb" timestamp="1734431899">MotorFOCSL.slx</file>
+    <file component="mcb" timestamp="1707430110">MotorPESL.slx</file>
+    <file component="mcb" timestamp="1707430110">MotorPmsmPEQep.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbFOCSL.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbstractionPEQep.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIInAbstractionPESL.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIOutAbFOCSL.slx</file>
+    <file component="mcb" timestamp="1736789502">SCIOutAbstractionPEQep.slx</file>
+    <file component="mcb" timestamp="1736789502">SCIOutAbstractionPESL.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIRXFOCSLHost.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIRXPEQepHost.slx</file>
+    <file component="mcb" timestamp="1707430110">SCIRXPESLHost.slx</file>
+    <file component="mcb" timestamp="1738353430">STM32G4xxTargetMotorControl.slx</file>
+    <file component="mcb" timestamp="1738354902">STM32xxTargetMotorControlData.m</file>
+    <file component="mcb" timestamp="1707430110">SystemInputsSimFOCSL.slx</file>
+    <file component="mcb" timestamp="1714474541">SystemInputsSimPEQep.slx</file>
+    <file component="mcb" timestamp="1714038029">SystemInputsSimPESL.slx</file>
+    <file component="mcb" timestamp="1707430110">UserInputsFOCSLHost.slx</file>
+    <file component="mcb" timestamp="1736789502">UserInputsPEQepHost.slx</file>
+    <file component="mcb" timestamp="1736789502">UserInputsPESLHost.slx</file>
+    <file component="mcb" timestamp="1736789502">mcbFOCSensorlessData.m</file>
+    <file component="mcb" timestamp="1714038029">mcbPEQepData.m</file>
+    <file component="mcb" timestamp="1736789502">mcbParamEstSensorlessData.m</file>
+    <file component="mcb" timestamp="1717439309">STM32F4xxHostMotorControl.slx</file>
+    <file component="mcb" timestamp="1738353430">STM32F4xxTargetMotorControl.slx</file>
+    <file component="mcb" timestamp="1738353430">STM32G4xxHostMotorControl.slx</file>
+    <file component="mcb" timestamp="1721305076">F28379dHostMotorControl.slx</file>
+    <file component="mcb" timestamp="1738354902">F28379dTargetMotorControl.slx</file>
+    <file component="mcb" timestamp="1723583670">F28379dTargetMotorControlData.m</file>
+    <file component="mcb" timestamp="1734966923">F28P550STargetMotorControlData.m</file>
+    <file component="mcb" timestamp="1734431899">F28P550SHostMotorControl.slx</file>
+    <file component="mcb" timestamp="1738354902">F28P550STargetMotorControl.slx</file>
+    <dir component="mcb" timestamp="1738354902">stm32g431rb_ihm07m1</dir>
+    <dir component="mcb" timestamp="1738354902">stm32g431rb_ihm16m1</dir>
+    <dir component="mcb" timestamp="1738354902">stm32f401re_ihm07m1</dir>
+    <dir component="mcb" timestamp="1738354902">stm32f401re_ihm16m1</dir>
+    <workFolder>MtrCtrlMdlGen</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>RunIndustrialDriveUsingFOCExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">QepIndustrialDrive</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/RunIndustrialDriveUsingFOCExample.html</file>
+    <metadata>ex23183796</metadata>
+    <thumbnail>data/mcb-pmsm-industrial-drive-illustration.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>stateflow</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1702460819">mcb-pmsm-industrial-drive-illustration.png</file>
+    <workFolder>MtrSwapQEP</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>SensorlessFocFOSMOExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SensorlessFocFOSMOExample.html</file>
+    <metadata>ex23295211</metadata>
+    <thumbnail>html/SensorlessFocFOSMOExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1724786047">mcb_host_model_f28069m.slx</file>
+    <file component="mcb" timestamp="1711986850">mcb_pmsm_foc_sensorless_f28069MLaunchPad.slx</file>
+    <file component="mcb" timestamp="1724786047">mcb_pmsm_foc_host_model_f28379d.slx</file>
+    <file component="mcb" timestamp="1734711818">mcb_pmsm_foc_sensorless_f28069MLaunchPad_datascript.m</file>
+    <file component="mcb" open="open" timestamp="1708967188">mcb_pmsm_foc_sensorless_f28379d.slx</file>
+    <file component="mcb" timestamp="1734711818">mcb_pmsm_foc_sensorless_f28379d_datascript.m</file>
+    <file component="mcb" timestamp="1708967188">mcb_SetSMOParameters.m</file>
+  </demoitem>
+  <demoitem>
+    <source>AcimFocQepExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/AcimFocQepExample.html</file>
+    <metadata>ex24123682</metadata>
+    <thumbnail>data/mcb_acim_quad_enc.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>fixedpoint</product>
+    <file component="mcb" open="open" timestamp="1691776438">mcb_acim_foc_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1723625719">mcb_acim_foc_host_model.slx</file>
+    <file component="mcb" timestamp="1691776438">mcb_acim_quad_enc.png</file>
+    <file component="mcb" timestamp="1731076194">mcb_acim_foc_qep_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PMSMParameterEstimationUsingSpeedGoatHardwareExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PMSMParameterEstimationUsingSpeedGoatHardwareExample.html</file>
+    <metadata>ex24421772</metadata>
+    <thumbnail>html/PMSMParameterEstimationUsingSpeedGoatHardwareExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>slrt</product>
+    <product>stateflow</product>
+    <file component="mcb" timestamp="1708967660">mcb-pmsm-speedgoat-codegen-subsystem.png</file>
+    <file component="mcb" timestamp="1708967660">mcb-pmsm-speedgoat-cond-encoder-block.png</file>
+    <file component="mcb" timestamp="1708967660">mcb-pmsm-speedgoat-param-est-blocks.png</file>
+    <file component="mcb" timestamp="1708967660">SpeedProfile.mat</file>
+    <file component="mcb" timestamp="1680176593">mcbEnumerations.sldd</file>
+    <file component="mcb" open="open" timestamp="1708967660">mcb_pmsm_param_est_speedgoat.slx</file>
+    <file component="mcb" timestamp="1731077871">mcb_pmsm_param_est_speedgoat_data.m</file>
+    <file component="mcb" timestamp="1708967660">speedgoat_IO397_50k_CI_02171_3.mat</file>
+    <workFolder>EstimatePMSMParamSG</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>ACIMParameterEstimationUsingRecommendedHardwareExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ACIMParameterEstimationUsingRecommendedHardwareExample.html</file>
+    <metadata>ex24652365</metadata>
+    <thumbnail>html/ACIMParameterEstimationUsingRecommendedHardwareExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1717435514">mcb-acim-param-est-blocks.png</file>
+    <file component="mcb" timestamp="1717435514">mcbEnumerations.sldd</file>
+    <file component="mcb" open="open" timestamp="1718701779">mcb_acim_param_est_f28379d.slx</file>
+    <file component="mcb" timestamp="1734695491">mcb_acim_param_est_f28379d_data.m</file>
+    <file component="mcb" timestamp="1718702074">mcb_acim_param_est_host_f28379d.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FieldOrientedControlOfPMSMUsingReinforcementLearningExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex29767965</metadata>
+    <thumbnail>html/FieldOrientedControlOfPMSMUsingReinforcementLearningExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>rl</product>
+    <file component="mcb" timestamp="1699552837">mcb_pmsm_foc_sim_RL.slx</file>
+    <file component="mcb" timestamp="1734685089">mcb_pmsm_foc_sim_RL_data.m</file>
+    <file component="mcb" timestamp="1699552837">rlPMSMAgent.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>FocAutoTunerRealTimeSystemsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FocAutoTunerRealTimeSystemsExample.html</file>
+    <metadata>ex29851544</metadata>
+    <thumbnail>html/FocAutoTunerRealTimeSystemsExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>slcontrol</product>
+    <product>slrt</product>
+    <file component="mcb" open="open" timestamp="1711988015">mcb_pmsm_foc_autotuner_speedgoat.slx</file>
+    <file component="mcb" timestamp="1691761345">mcb_speedgoat_at1.png</file>
+    <file component="mcb" timestamp="1691761345">mcb_speedgoat_at2.png</file>
+    <file component="mcb" timestamp="1691761345">mcb_speedgoat_closed_loop2.png</file>
+    <file component="mcb" timestamp="1691761345">mcb_speedgoat_dialog.png</file>
+    <file component="mcb" timestamp="1691761345">mcb_speedgoat_offset.png</file>
+    <file component="mcb" timestamp="1691761345">mcb_speedgoat_open_loop.png</file>
+    <file component="mcb" timestamp="1680261651">SpeedProfile.mat</file>
+    <file component="mcb" timestamp="1731078803">mcb_pmsm_foc_autotuner_speedgoat_data.m</file>
+    <file component="mcb" timestamp="1691761345">mcb_pmsm_foc_autotuner_speedgoat_systemInputs.mat</file>
+    <file component="mcb" timestamp="1691761345">speedgoat_IO397_50k_CI_02171.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>SIUnitsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SIUnitsExample.html</file>
+    <metadata>ex30064318</metadata>
+    <thumbnail>html/SIUnitsExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1736441370">mcb_pmsm_foc_qep_f28379d_SIUnit.slx</file>
+    <file component="mcb" timestamp="1724861430">mcb_pmsm_SIUnit_host_model.slx</file>
+    <file component="mcb" timestamp="1736441370">mcb_pmsm_foc_qep_f28379d_SIUnit_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SixStepBLDCQepHallExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SixStepBLDCQepHallExample.html</file>
+    <metadata>ex31717495</metadata>
+    <thumbnail>data/mcb_bldc_sixstep_qep_hall.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simscapeelectrical</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1724861975">mcb_bldc_host_model_f28379d.slx</file>
+    <file component="mcb" open="open" timestamp="1736256643">mcb_bldc_sixstep_f28379d.slx</file>
+    <file component="mcb" timestamp="1708968076">mcb_bldc_sixstep_qep_hall.png</file>
+    <file component="mcb" timestamp="1736256643">mcb_bldc_sixstep_f28069mLaunchPad.slx</file>
+    <file component="mcb" timestamp="1734712519">mcb_bldc_sixstep_f28069mLaunchPad_data.m</file>
+    <file component="mcb" timestamp="1734712519">mcb_bldc_sixstep_f28379d_data.m</file>
+    <file component="mcb" timestamp="1680279274">mcb_host_model_f28069m.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FieldOrientedControlOfPMSMUsingHardwareInTheLoopHILExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">focHil</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/FieldOrientedControlOfPMSMUsingHardwareInTheLoopHILExample.html</file>
+    <metadata>ex33352596</metadata>
+    <thumbnail>data/HIL_diagram.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>slrt</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>hdlcoder</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691769537">HIL_diagram.png</file>
+    <file component="mcb" timestamp="1691769537">mcb_controller_model.png</file>
+    <file component="mcb" timestamp="1691769537">data_inspector.png</file>
+    <file component="mcb" timestamp="1691769537">mcb_controller_host.png</file>
+    <file component="mcb" timestamp="1691769537">Analog_pin_connections.png</file>
+    <file component="mcb" timestamp="1691769537">Enc_hardware.png</file>
+    <file component="mcb" timestamp="1691769537">Enc_pin_connections.png</file>
+    <file component="mcb" timestamp="1691769537">PWM_hardware.png</file>
+    <file component="mcb" timestamp="1691769537">PWM_pin_connections.png</file>
+    <file component="mcb" timestamp="1691769537">ADC_counts.png</file>
+    <file component="mcb" timestamp="1691769537">mcb_foc_hil_start.m</file>
+  </demoitem>
+  <demoitem>
+    <source>AlgorithmExportWorkflowsForCustomHardwareExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">FOCAlgorithmExportDemo</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/AlgorithmExportWorkflowsForCustomHardwareExample.html</file>
+    <metadata>ex35098912</metadata>
+    <thumbnail>data/mcb-custom-hw-foc-host-model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691768884">mcb_FOCAlgorithmExportDemoStart.m</file>
+    <file component="mcb" timestamp="1691768884">mcb-custom-hw-foc-host-model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>FocHallExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FocHallExample.html</file>
+    <metadata>ex38105485</metadata>
+    <thumbnail>data/mcb_hall_sensors.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691686842">mcb_hall_sensors.png</file>
+    <file component="mcb" timestamp="1733937264">mcb_pmsm_foc_hall_f28069m.slx</file>
+    <file component="mcb" timestamp="1610764127">mcb_host_model_f28069m.slx</file>
+    <file component="mcb" timestamp="1733937264">mcb_pmsm_foc_hall_f28069m_data.m</file>
+    <file component="mcb" open="open" timestamp="1733937264">mcb_pmsm_foc_hall_f28379d.slx</file>
+    <file component="mcb" timestamp="1733937264">mcb_pmsm_foc_hall_f28379d_data.m</file>
+    <file component="mcb" timestamp="1690548339">mcb_pmsm_foc_host_model_f28379d.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FrequencyResponseEstimationOfPMSMFocQepExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FrequencyResponseEstimationOfPMSMFocQepExample.html</file>
+    <metadata>ex39775606</metadata>
+    <thumbnail>html/FrequencyResponseEstimationOfPMSMFocQepExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>slcontrol</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1708968439">mcb_pmsm_freq_est_f28379d.slx</file>
+    <file component="mcb" timestamp="1723562951">mcb_pmsm_freq_host_f28379d.slx</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_resp_est_model_architecture.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_comm.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_compare_sim_hw.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain1.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain2.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain3.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain4.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain5.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain6.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_gain7.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_hw_plot.png</file>
+    <file component="mcb" timestamp="1708968439">mcb_freq_est_sim_plot.png</file>
+    <file component="mcb" timestamp="1734706763">mcb_pmsm_freq_est_f28379d_data.m</file>
+    <file component="mcb" timestamp="1708968439">mcb_pmsm_freq_est_host_plot.m</file>
+    <file component="mcb" timestamp="1708968439">mcb_pmsm_freq_est_plot.m</file>
+  </demoitem>
+  <demoitem>
+    <source>FOCAutotunerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FOCAutotunerExample.html</file>
+    <metadata>ex40033425</metadata>
+    <thumbnail>data/mcb_foc_autotuner_block_diagram.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>slcontrol</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1724863179">mcb_host_autotuner_f28379d.slx</file>
+    <file component="mcb" open="open" timestamp="1734011856">mcb_pmsm_foc_autotuner_f28379d.slx</file>
+    <file component="mcb" timestamp="1691760093">mcb_foc_autotuner_block_diagram.png</file>
+    <file component="mcb" timestamp="1691760093">mcb_foc_autotuner_scope.png</file>
+    <file component="mcb" timestamp="1691760093">mcb_foc_autotuner_scope_select.png</file>
+    <file component="mcb" timestamp="1734011856">mcb_pmsm_foc_autotuner_f28379d_data.m</file>
+    <file component="mcb" timestamp="1691760093">mcb_pmsm_foc_autotuner_f28379d_systemInputs.mat</file>
+    <file component="mcb" timestamp="1691760093">mcb_pmsm_foc_autotuner.slx</file>
+    <file component="mcb" timestamp="1734011856">mcb_pmsm_foc_autotuner_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DeterminePowerLossesTHDForPWMModulationMethodsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DeterminePowerLossesTHDForPWMModulationMethodsExample.html</file>
+    <metadata>ex41373365</metadata>
+    <thumbnail>html/DeterminePowerLossesTHDForPWMModulationMethodsExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simscapeelectrical</product>
+    <file component="mcb" timestamp="1691770168">PWM_losses_THD_Plot_Fig1.png</file>
+    <file component="mcb" timestamp="1691770168">PWM_losses_THD_Plot_Fig2.png</file>
+    <file component="mcb" open="open" timestamp="1718880673">mcb_inverter_powerloss.slx</file>
+    <file component="mcb" timestamp="1734702543">mcb_inverter_powerloss_data.m</file>
+    <file component="mcb" timestamp="1691770168">mcb_InverterLossTHDExtract.m</file>
+    <file component="mcb" timestamp="1691770168">mcb_ref_switchmodel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FOCForPMSMUsingTrenzElectronicKitExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">mcbMotorControlFpgaDemo</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/FOCForPMSMUsingTrenzElectronicKitExample.html</file>
+    <metadata>ex41531250</metadata>
+    <thumbnail>data/mcb-foc-processor-fpga-interface.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>xilinxzynq7000ec</product>
+    <product>hdlcoder</product>
+    <product>xilinxzynq7000</product>
+    <product>simscapeelectrical</product>
+    <file component="mcb" timestamp="1691771451">mcb-pmsm-foc-fpga-simulation-deployment-architecture.png</file>
+    <file component="mcb" timestamp="1722597532">mcb-matlab-project.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-code-gen-report-hdl.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-code-gen-report.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-controller-algorithm.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-floating-point-variant.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-focZynqTestBench-model.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-foczynqarmdeployment-model.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-foczynqc-model.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-foczynqhdl-model.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-hdl-coder-workflow-1-2.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-hdl-coder-workflow-1.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-hdl-coder-workflow-4-3.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-hdl-coder-workflow-4-4.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-hw-board-xilinx-zynq.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-sdi-plot.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-system-sdi-2.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-trenz-board-cables.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-trenz-board-connections.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-trenz-board-jumpers.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-foczynqcfo-model.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-foc-processor-fpga-interface.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-fpga-input-source-value.png</file>
+    <file component="mcb" timestamp="1691771451">mcb-fpga-measure-adc-offsets.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PMSMDriveCharacteristicsAndConstraintCurvesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43473823</metadata>
+    <thumbnail>data/constraint-curves-tmb.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <file component="mcb" timestamp="1699612769">constraint-curves-tmb.png</file>
+  </demoitem>
+  <demoitem>
+    <source>DualMotorDynoExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DualMotorDynoExample.html</file>
+    <metadata>ex43993947</metadata>
+    <thumbnail>html/DualMotorDynoExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1734083225">mcb_pmsm_foc_f28379d_dyno.slx</file>
+    <file component="mcb" timestamp="1724863533">mcb_pmsm_foc_host_model_dyno.slx</file>
+    <file component="mcb" timestamp="1734083225">mcb_pmsm_foc_dyno_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>FieldWeakeningControlWithMTPAExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FieldWeakeningControlWithMTPAExample.html</file>
+    <metadata>ex44583698</metadata>
+    <thumbnail>data/mcb_mtpa_charac.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691688365">mcb_fwc_charac.png</file>
+    <file component="mcb" timestamp="1691688365">mcb_fwc_mtpa_sim_analysis1.png</file>
+    <file component="mcb" timestamp="1691688365">mcb_fwc_mtpa_sim_analysis2.png</file>
+    <file component="mcb" timestamp="1700480739">mcb_mtpa_charac.png</file>
+    <file component="mcb" timestamp="1723541688">mcb_pmsm_fwc_host_model.slx</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_fwc_qep_f28069LaunchPad.slx</file>
+    <file component="mcb" open="open" timestamp="1734080908">mcb_ipmsm_fwc_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1734080908">mcb_ipmsm_fwc_qep_f28379d_data.m</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_fwc_qep_f28069MLaunchPad_data.m</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_fwc_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_fwc_qep_f28379d_data.m</file>
+    <file component="mcb" timestamp="1723541688">mcb_pmsm_mtpa_host_model.slx</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_mtpa_qep_f28069LaunchPad.slx</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_mtpa_qep_f28069MLaunchPad_data.m</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_mtpa_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1734080908">mcb_pmsm_mtpa_qep_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PMSMQepWorkflowExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">QEPWorkflowDemo</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/PMSMQepWorkflowExample.html</file>
+    <metadata>ex44699965</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <product>stateflow</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691766644">mcb_QEPWorkflowDemoStart.m</file>
+    <file component="mcb" timestamp="1691766644">mcb_qep_workflow.png</file>
+    <file component="mcb" timestamp="1691766644">mcb_qep_workflow_host.png</file>
+  </demoitem>
+  <demoitem>
+    <source>FOCOfSixPhasePMSMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FOCOfSixPhasePMSMExample.html</file>
+    <metadata>ex48173267</metadata>
+    <thumbnail>data/mcb-six-ph-vsd-asymmetric-pmsm.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simscapeelectrical</product>
+    <file component="mcb" open="open" timestamp="1723581624">SixPhasePMSMTorqueControl.slx</file>
+    <file component="mcb" timestamp="1723581624">SixPhasePMSMTorqueControlData.m</file>
+    <file component="mcb" timestamp="1723581624">SixPhasePMSMTorqueControlInput.mat</file>
+    <file component="mcb" timestamp="1724865417">mcb-six-ph-vsd-asymmetric-pmsm.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CodeVerificationAndProfilingUsingPILTestingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CodeVerificationAndProfilingUsingPILTestingExample.html</file>
+    <metadata>ex49335798</metadata>
+    <thumbnail>html/CodeVerificationAndProfilingUsingPILTestingExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <file component="mcb" timestamp="1708970516">mcb-config-param-hw-board.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-curr-ctrl-option1.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-curr-ctrl-options.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-curr-ctrl-untitled.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-curr-ctrl-untitled1.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-model-modified.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-model-modified1.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-plot.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-report.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-script.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-system-under-test.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-pil-target-hw-res.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-sil-pil-app.png</file>
+    <file component="mcb" timestamp="1708970516">mcb-sil-pil-sim-only.png</file>
+    <file component="mcb" open="open" timestamp="1708970516">mcb_pmsm_foc_sim.slx</file>
+    <file component="mcb" timestamp="1731086298">mcb_pmsm_foc_sim_data.m</file>
+    <file component="mcb" timestamp="1708970516">mcb_PIL_config_TI.m</file>
+  </demoitem>
+  <demoitem>
+    <source>FOCQepExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FOCQepExample.html</file>
+    <metadata>ex51150869</metadata>
+    <thumbnail>data/mcb_quad_enc.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1736439805">mcb_pmsm_foc_qep_f28069m.slx</file>
+    <file component="mcb" timestamp="1691687759">mcb_quad_enc.png</file>
+    <file component="mcb" timestamp="1610766701">mcb_host_model_f28069m.slx</file>
+    <file component="mcb" timestamp="1690548718">mcb_pmsm_foc_host_model_f28379d.slx</file>
+    <file component="mcb" timestamp="1736439805">mcb_pmsm_foc_qep_f28069LaunchPad.slx</file>
+    <file component="mcb" timestamp="1733936668">mcb_pmsm_foc_qep_f28069LaunchPad_data.m</file>
+    <file component="mcb" timestamp="1733936668">mcb_pmsm_foc_qep_f28069m_data.m</file>
+    <file component="mcb" timestamp="1736439805">mcb_pmsm_foc_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1736439805">mcb_pmsm_foc_qep_f28379d_data.m</file>
+    <file component="mcb" timestamp="1736439805">mcb_pmsm_foc_system.slx</file>
+    <file component="mcb" timestamp="1691687759">mcb_algorithm_workflow_data.m</file>
+    <file component="mcb" timestamp="1703603558">mcb_pmsm_foc.slx</file>
+    <file component="mcb" timestamp="1691687759">mcb_pmsmfoc_motor.png</file>
+    <file component="mcb" timestamp="1691687759">mcb_pmsmfoc_processor.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PMSMConstraintCurvesAndTheirApplicationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51786994</metadata>
+    <thumbnail>html/PMSMConstraintCurvesAndTheirApplicationExample_47.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>FOCPMSMUsingPosEstByNeuralNtwExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52410619</metadata>
+    <thumbnail>html/FOCPMSMUsingPosEstByNeuralNtwExample_08.png</thumbnail>
+    <sandboxPublished/>
+    <product>simulink</product>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>nnet</product>
+    <file component="mcb" timestamp="1720707243">CreateNetwork.m</file>
+    <file component="mcb" timestamp="1720707243">DataConcatenate.m</file>
+    <file component="mcb" timestamp="1720707243">DataPreparation.m</file>
+    <file component="mcb" timestamp="1720707243">DataSplit.m</file>
+    <file component="mcb" timestamp="1720707243">OneElecCycleExtrac.m</file>
+    <file component="mcb" timestamp="1720707243">TrainingDataCapture.m</file>
+    <file component="mcb" timestamp="1743537244">mcb_pmsm_foc_deep_learning_host_model_f28379d.slx</file>
+    <file component="mcb" timestamp="1744655054">mcb_pmsm_foc_qep_deep_learning_f28379d_data.m</file>
+    <file component="mcb" timestamp="1744655054">mcb_pmsm_foc_qep_deep_learning_f28379d.slx</file>
+    <file component="mcb" timestamp="1744655054">DefaultPosVirtualSensorNet.mat</file>
+    <file component="mcb" timestamp="1744655054">TrainedPosVirtualSensorNet.mat</file>
+    <workFolder>FOCNNPosPMSM</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>SimscapeElectricalExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SimscapeElectricalExample.html</file>
+    <metadata>ex53862036</metadata>
+    <thumbnail>html/SimscapeElectricalExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simscapeelectrical</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1735633002">mcb_ee_pmsm_foc.slx</file>
+    <file component="mcb" timestamp="1691759828">mcb_phys_mod_plot.png</file>
+    <file component="mcb" timestamp="1691759828">mcb_phys_mod_plot1.png</file>
+    <file component="mcb" timestamp="1691759828">mcb_phys_mod_plot2.png</file>
+    <file component="mcb" timestamp="1691759828">mcb_phys_mod_plot3.png</file>
+    <file component="mcb" timestamp="1691759828">mcb_phys_mod_plot4.png</file>
+    <file component="mcb" timestamp="1690549076">mcb_pmsm_foc_host_model_f28379d.slx</file>
+    <file component="mcb" timestamp="1734712367">mcb_ee_pmsm_foc_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SynRMConstraintCurvesAndTheirApplicationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61026300</metadata>
+    <thumbnail>html/SynRMConstraintCurvesAndTheirApplicationExample_19.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectUnbalancedMotorUsingNeuralNetworkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61349887</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>c2b</product>
+    <product>nnet</product>
+    <product>ecoder</product>
+    <file component="mcb" timestamp="1740501481">mcb_detect_unbalance.slx</file>
+    <file component="mcb" timestamp="1734996799">mcb_detect_unbalance_data.m</file>
+    <file component="mcb" timestamp="1734996799">mcb_detect_unbalance_host.slx</file>
+    <file component="mcb" timestamp="1734996799">preprocessLoggedData.m</file>
+    <file component="mcb" timestamp="1734996799">transformLoggedData.m</file>
+    <file component="mcb" timestamp="1734996799">balancedData_Ia.mat</file>
+    <file component="mcb" timestamp="1734996799">balancedData_Ib.mat</file>
+    <file component="mcb" timestamp="1734996799">balancedData_Iq.mat</file>
+    <file component="mcb" timestamp="1734996799">balancedData_v.mat</file>
+    <file component="mcb" timestamp="1734996799">createNetworkForAnomalyDetection.m</file>
+    <file component="mcb" timestamp="1734996799">myNN.mat</file>
+    <file component="mcb" timestamp="1734996799">unbalancedData_Ia.mat</file>
+    <file component="mcb" timestamp="1734996799">unbalancedData_Ib.mat</file>
+    <file component="mcb" timestamp="1734996799">unbalancedData_Iq.mat</file>
+    <file component="mcb" timestamp="1734996799">unbalancedData_v.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>MotorCtrlArchDiffADCPWMFreqExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61590362</metadata>
+    <thumbnail>html/MotorCtrlArchDiffADCPWMFreqExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1721430063">ADCOverSampling.mlx</file>
+    <file component="mcb" timestamp="1721430063">ADCOverSampling.slx</file>
+    <file component="mcb" timestamp="1731339230">ADCOverSamplingData.m</file>
+    <file component="mcb" timestamp="1721430063">FasterPWM.mlx</file>
+    <file component="mcb" timestamp="1721430063">FasterPWM.slx</file>
+    <file component="mcb" timestamp="1731339230">FasterPWMData.m</file>
+    <file component="mcb" timestamp="1723621386">HostModel.slx</file>
+    <file component="mcb" timestamp="1721430063">PWMDithering.mlx</file>
+    <file component="mcb" timestamp="1731339230">PWMDitheringData.m</file>
+    <file component="mcb" timestamp="1732286137">PWMDithering.slx</file>
+    <file component="mcb" timestamp="1721430063">PWMDoubleUpdate.mlx</file>
+    <file component="mcb" timestamp="1721430063">PWMDoubleUpdate.slx</file>
+    <file component="mcb" timestamp="1731339230">PWMDoubleUpdateData.m</file>
+    <file component="mcb" timestamp="1721430063">ADCAdvancedSampling.mlx</file>
+    <file component="mcb" timestamp="1721430063">ADCAdvancedSampling.slx</file>
+    <file component="mcb" timestamp="1731339230">ADCAdvancedSamplingData.m</file>
+  </demoitem>
+  <demoitem>
+    <source>MonitoringResolverExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MonitoringResolverExample.html</file>
+    <metadata>ex63329616</metadata>
+    <thumbnail>data/mcb_resolver.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>mcb</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691759596">mcb_resolver.png</file>
+    <file component="mcb" open="open" timestamp="1739361325">mcb_resolver_f28069m.slx</file>
+    <file component="mcb" timestamp="1739361325">mcb_resolver_host_read.slx</file>
+    <file component="mcb" timestamp="1691759596">mcb_resolver_plot.png</file>
+    <file component="mcb" timestamp="1691759596">mcb_resolver_excitation_plot.png</file>
+    <file component="mcb" timestamp="1739361325">mcb_resolver_f28379d.slx</file>
+    <file component="mcb" timestamp="1739361325">mcb_resolver_f28379d_data.m</file>
+    <file component="mcb" timestamp="1739361325">mcb_resolver_f28069m_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>ObtainControllerGainsToRunMotorUsingFOCExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63760740</metadata>
+    <thumbnail>html/ObtainControllerGainsToRunMotorUsingFOCExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <file component="mcb" timestamp="1735054407">ModelForSpeedControl.slx</file>
+    <file component="mcb" timestamp="1744659853">openModel.m</file>
+    <file component="mcb" timestamp="1744659853">plotStepResponse.m</file>
+    <file component="mcb" timestamp="1735054407">ModelForTorqueControl.slx</file>
+    <file component="mcb" timestamp="1744659853">ModelControlGainBlock.slx</file>
+    <file component="mcb" timestamp="1744659853">calculateCLGain.m</file>
+    <file component="mcb" timestamp="1744659853">calculateSLGain.m</file>
+  </demoitem>
+  <demoitem>
+    <source>FWCWithMTPAOfNonLinearPMSMUsingLUTExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FWCWithMTPAOfNonLinearPMSMUsingLUTExample.html</file>
+    <metadata>ex66389351</metadata>
+    <thumbnail>data/mcb-fwc-mtpa-spm-ipm-operating-region.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simscapeelectrical</product>
+    <product>simulink</product>
+    <file component="mcb" timestamp="1705495586">mcb-fwc-mtpa-spm-ipm-operating-region.png</file>
+    <file component="mcb" timestamp="1705495586">mcb_fwc-mtpa-lut-pmsm-ctrl-ref-block.png</file>
+    <file component="mcb" timestamp="1705495586">mcb_fwc-mtpa-motor-models.png</file>
+    <file component="mcb" timestamp="1705495586">mcb_fwc-mtpa-pmsm-ff-block.png</file>
+    <file component="mcb" open="open" timestamp="1705495586">mcb_pmsm_nonlin_fwc.slx</file>
+    <file component="mcb" timestamp="1731093667">mcb_pmsm_nonlin_fwc_data.m</file>
+    <file component="mcb" timestamp="1705495586">IPMSM_template_data.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePMSMParametersUsingCustomHardwareExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">ParameterEstimationAlgorithm</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/EstimatePMSMParametersUsingCustomHardwareExample.html</file>
+    <metadata>ex67615882</metadata>
+    <thumbnail>data/parameter_estimation_algorithm.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1708979014">mcb_custom_algorithm_c_code_build.png</file>
+    <file component="mcb" timestamp="1708979014">mcb_custom_algorithm_c_code_map.png</file>
+    <file component="mcb" timestamp="1708979014">mcb_custom_algorithm_c_func_call.png</file>
+    <file component="mcb" timestamp="1708979014">mcb_custom_algorithm_c_func_example.png</file>
+    <file component="mcb" timestamp="1708979014">mcb_custom_algorithm_ec_app.png</file>
+    <file component="mcb" timestamp="1708979014">parameter_estimation_algorithm.png</file>
+    <file component="mcb" timestamp="1708979014">parameter_estimation_c_code_func_prev.png</file>
+    <file component="mcb" timestamp="1708979014">parameter_estimation_c_step_func_int.png</file>
+    <file component="mcb" timestamp="1708979014">parameter_estimation_custom_hw_implement_set.png</file>
+    <file component="mcb" timestamp="1708979014">parameter_estimation_custom_solver_set.png</file>
+    <file component="mcb" timestamp="1708979014">mcb-prog-control-interactions_param_est.png</file>
+    <file component="mcb" timestamp="1708979014">mcb_ParameterEstimationAlgorithmStart.m</file>
+    <workFolder>EstimatePMSMParamCustom</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>OpenloopADCOffsetExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/OpenloopADCOffsetExample.html</file>
+    <metadata>ex67662381</metadata>
+    <thumbnail>html/OpenloopADCOffsetExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691669403">mcb_open_loop_scope.png</file>
+    <file component="mcb" timestamp="1691669403">mcb_open_loop_scope1.png</file>
+    <file component="mcb" timestamp="1731056604">OpenloopMotorControlCallback.m</file>
+    <file component="mcb" timestamp="1732096103">OpenloopMotorControlF28069mDRV8312.slx</file>
+    <file component="mcb" timestamp="1732096103">OpenloopMotorControlF28069mLaunchPad.slx</file>
+    <file component="mcb" open="open" timestamp="1731056604">OpenloopMotorControlF28379d.slx</file>
+    <file component="mcb" timestamp="1731056604">OpenloopMotorControlHost.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>QuadratureEncoderOffsetExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/QuadratureEncoderOffsetExample.html</file>
+    <metadata>ex70645481</metadata>
+    <thumbnail>html/QuadratureEncoderOffsetExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1734709034">EncoderOffsetCalibrationF28069m.slx</file>
+    <file component="mcb" timestamp="1734709034">EncoderOffsetCalibrationF28069mLaunchPad.slx</file>
+    <file component="mcb" open="open" timestamp="1734709034">EncoderOffsetCalibrationF28379d.slx</file>
+    <file component="mcb" timestamp="1731058531">OffsetCalibrationF28069mHost.slx</file>
+    <file component="mcb" timestamp="1731058531">OffsetCalibrationF28379dHost.slx</file>
+    <file component="mcb" timestamp="1731040797">OffsetCalibrationCallback.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DetermineRefCurrentsPMSMUsingTestDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex71033100</metadata>
+    <thumbnail>html/DetermineRefCurrentsPMSMUsingTestDataExample_07.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simscapeelectrical</product>
+    <file component="mcb" timestamp="1736869384">DynoData.mat</file>
+    <file component="mcb" timestamp="1736869384">RunNonlinearPMSM.slx</file>
+    <file component="mcb" timestamp="1736869384">RunNonlinearPMSMData.m</file>
+    <file component="mcb" timestamp="1736869384">VirtualDynoModel.slx</file>
+    <file component="mcb" timestamp="1736869384">sweepVirtualDyno.m</file>
+    <file component="mcb" timestamp="1736869384">pmsmData_LdLq.mat</file>
+    <file component="mcb" timestamp="1733936668">mcb_pmsm_foc_qep_f28069m_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>AnalyzeMotorControlAlgoUsingPolyspaceExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex71377676</metadata>
+    <thumbnail>data/mcb-polyspace12.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>polyspace_bf_desktop</product>
+    <product>polyspace_cp_desktop</product>
+    <product>simulink</product>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace1.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace10.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace11.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace12.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace2.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace3.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace4.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace5.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace6.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace7.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace8.png</file>
+    <file component="mcb" timestamp="1691775006">mcb-polyspace9.png</file>
+    <noButton/>
+  </demoitem>
+  <demoitem>
+    <source>PositionControlPMSMQepExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PositionControlPMSMQepExample.html</file>
+    <metadata>ex72708045</metadata>
+    <thumbnail>html/PositionControlPMSMQepExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1733937775">mcb_pmsm_PosCtrl_f28379d.slx</file>
+    <file component="mcb" timestamp="1723544180">mcb_pmsm_host_model_PosCtrl.slx</file>
+    <file component="mcb" timestamp="1588239999">mcb_pmsmfoc_motor.png</file>
+    <file component="mcb" timestamp="1588239999">mcb_pmsmfoc_processor.png</file>
+    <file component="mcb" timestamp="1733937775">mcb_pmsm_PosCtrl_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePMSMParametersUsingFPGAMotorControlKitExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex73505575</metadata>
+    <thumbnail>data/mcb-pe-processor-fpga-interface.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <callback>mcb_foc_fpga_demo_start</callback>
+    <product>matlab</product>
+    <product>ecoder</product>
+    <product>xilinxzynq7000ec</product>
+    <product>xilinxzynq7000</product>
+    <product>hdlcoder</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1708979914">mcb-pe-code-gen-report-hdl.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-code-gen-report.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-controller-algorithm.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-fpga-measure-adc-offsets.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-hdl-coder-workflow-1-2.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-hdl-coder-workflow-1.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-hdl-coder-workflow-4-3.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-hdl-coder-workflow-4-4.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-hw-board-xilinx-zynq.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-matlab-project.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-trenz-board-cables.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-trenz-board-connections.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-trenz-board-jumpers.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-peZynqTestBench-model.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-peZynqTestBench-simplot.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pezynqarmdeployment-model.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pezynqc-model.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pezynqhdl-model.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-processor-fpga-interface.png</file>
+    <file component="mcb" timestamp="1708979914">mcb-pe-c-hdl-est-type-select.png</file>
+    <workFolder>EstimatePMSMParamFPGA</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>SIUnitToPerUnitExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex73592249</metadata>
+    <product>matlab</product>
+    <product>mcb</product>
+    <file component="mcb" timestamp="1738231993">FOCofPMSM.slx</file>
+    <file component="mcb" timestamp="1738231993">FOCofPMSMData.m</file>
+  </demoitem>
+  <demoitem>
+    <source>TunePIControllersInFWCModeUsingFOCAutotunerBlockExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TunePIControllersInFWCModeUsingFOCAutotunerBlockExample.html</file>
+    <metadata>ex74084257</metadata>
+    <thumbnail>data/mcb_fwc_autotuner_ipmsm_block_diagram.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>slcontrol</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>stateflow</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691760701">mcb_fwc_autotuner_ipmsm_block_diagram.png</file>
+    <file component="mcb" open="open" timestamp="1734012553">mcb_ipmsm_fwc_autotuner_f28379d.slx</file>
+    <file component="mcb" timestamp="1631720792">mcb_foc_autotuner_scope.png</file>
+    <file component="mcb" timestamp="1631720792">mcb_foc_autotuner_scope_select.png</file>
+    <file component="mcb" timestamp="1723794166">mcb_ipmsm_fwc_autotuner_host_f28379d.slx</file>
+    <file component="mcb" timestamp="1734012553">mcb_ipmsm_fwc_autotuner_f28379d_data.m</file>
+    <file component="mcb" timestamp="1734012553">SpeedProfile.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>FWCWithMTPAOfNonlinearSynRMUsingLUTExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FWCWithMTPAOfNonlinearSynRMUsingLUTExample.html</file>
+    <metadata>ex75106342</metadata>
+    <thumbnail>data/mcb-synrm-fwc-mtpa-lut.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>simscapeelectrical</product>
+    <file component="mcb" open="open" timestamp="1739790479">mcb_synrm_nonlin_fwc.slx</file>
+    <file component="mcb" timestamp="1739790479">mcb_synrm_nonlin_fwc_data.m</file>
+    <file component="mcb" timestamp="1708980252">SynRM_template_data.mat</file>
+    <file component="mcb" timestamp="1708980252">mcb-synrm-fwc-mtpa-lut-load1.png</file>
+    <file component="mcb" timestamp="1708980252">mcb-synrm-fwc-mtpa-lut-load2.png</file>
+    <file component="mcb" timestamp="1708980252">mcb-synrm-fwc-mtpa-lut.png</file>
+    <workFolder>FwcSynRMLUT</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>HallDecoderBlockIntegrationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75850887</metadata>
+    <product>matlab</product>
+    <product>mcb</product>
+    <file component="mcb" timestamp="1738150882">FOCUsingSingleHallInterrupt.slx</file>
+    <file component="mcb" timestamp="1738150882">FOCUsingThreeHallInterruptSingleTimer.slx</file>
+    <file component="mcb" timestamp="1738150882">FOCUsingThreeHallInterruptThreeTimers.slx</file>
+    <file component="mcb" timestamp="1738150882">HallDecoder180DegCodegen.slx</file>
+    <file component="mcb" timestamp="1738150882">HallDecoder60DegCodegen.slx</file>
+    <file component="mcb" timestamp="1738150882">HallValidityCodegen.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RunTimeParamEstPMSMWithSensorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RunTimeParamEstPMSMWithSensorExample.html</file>
+    <metadata>ex77450404</metadata>
+    <thumbnail>html/RunTimeParamEstPMSMWithSensorExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ident</product>
+    <file component="mcb" open="open" timestamp="1738336291">PMSMRuntimeParameterEstimationF28379d.slx</file>
+    <file component="mcb" timestamp="1738336291">PMSMRuntimeParameterEstimationF28379dData.m</file>
+    <file component="mcb" timestamp="1737556875">PMSMRuntimeParameterEstimationF28379dHost.slx</file>
+    <file component="mcb" timestamp="1721053714">measureMotorId.m</file>
+    <file component="mcb" timestamp="1721053714">measureMotorIq.m</file>
+    <file component="mcb" timestamp="1721053714">mcb-rt-param-est-ekf-block-param-dialog.png</file>
+    <file component="mcb" timestamp="1721053714">mcb-rt-param-est-ekf-block.png</file>
+    <file component="mcb" timestamp="1721053714">mcb-rt-param-est-fluxpm-state-eq-func.png</file>
+    <file component="mcb" timestamp="1721053714">mcb-rt-param-est-fluxpm-state-eq.png</file>
+    <file component="mcb" timestamp="1721053714">mcb-rt-param-est-rls-block-param-dialog.png</file>
+    <file component="mcb" timestamp="1721053714">mcb-rt-param-est-rls-block.png</file>
+    <file component="mcb" timestamp="1731097345">estimateRuntimeRs.m</file>
+    <file component="mcb" timestamp="1738336291">Rs-param-estimation-model-main.png</file>
+    <file component="mcb" timestamp="1738336291">Rs-param-estimation-model-ml-function.png</file>
+  </demoitem>
+  <demoitem>
+    <source>DirectTorqueControlOfPMSMQuadratureEncoderFluxObserverExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DirectTorqueControlOfPMSMQuadratureEncoderFluxObserverExample.html</file>
+    <metadata>ex79653185</metadata>
+    <thumbnail>html/DirectTorqueControlOfPMSMQuadratureEncoderFluxObserverExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1737983571">mcb_pmsm_dtc_f28379d.slx</file>
+    <file component="mcb" timestamp="1724930945">mcb_pmsm_dtc_host_f28379d.slx</file>
+    <file component="mcb" timestamp="1734082007">mcb_pmsm_dtc_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>IpeFwciPMSMPhfoSensorlessEemfExample</source>
+    <type>model</type>
+    <extension>mlx</extension>
+    <metadata>ex83508868</metadata>
+    <thumbnail>html/IpeFwciPMSMPhfoSensorlessEemfExample_02.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>c2b</product>
+    <product>ecoder</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" open="open" timestamp="1738324487">SensorlessIPMSMControlUsingHighFrquencyInjection.slx</file>
+    <file component="mcb" timestamp="1738324487">SensorlessIPMSMControlUsingHighFrquencyInjectionData.m</file>
+    <file component="mcb" timestamp="1738324487">SensorlessIPMSMControlUsingHighFrquencyInjectionHost.slx</file>
+    <file component="mcb" timestamp="1737982961">calcControllerGains.m</file>
+    <file component="mcb" timestamp="1738324487">SensorlessControlSpeedProfile.mat</file>
+    <workFolder>SensorlessFWCiPMSM</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>SensorlessFocOfPMSMUsingDCShuntCurrentSensingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SensorlessFocOfPMSMUsingDCShuntCurrentSensingExample.html</file>
+    <metadata>ex91040977</metadata>
+    <thumbnail>data/mcb-dc-shunt-pulse-trains.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1717436300">mcb_host_model_f28069m.slx</file>
+    <file component="mcb" open="open" timestamp="1717436300">PMSMFocSensorlessDCShuntCurrentSenseF28069m.slx</file>
+    <file component="mcb" timestamp="1734712000">PMSMFocSensorlessDCShuntCurrentSenseF28069mData.m</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-eight-switching-states.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-ex1.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-idc-table.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-identical-duties-compensation.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-identical-duties.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-meas-types.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-minus-ic.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-plus-ia.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-pulse-trains.png</file>
+    <file component="mcb" timestamp="1708980508">mcb-dc-shunt-six-sectors.png</file>
+    <workFolder>SingleShuntPMSMCtrl</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>HallSequenceCalibrationBldcExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HallSequenceCalibrationBldcExample.html</file>
+    <metadata>ex91392778</metadata>
+    <thumbnail>data/mcb_bldc_hall_seq_calib.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1691775492">mcb_bldc_hall_seq_calib.png</file>
+    <file component="mcb" open="open" timestamp="1691775492">mcb_hall_calibration_f28379d.slx</file>
+    <file component="mcb" timestamp="1724935862">mcb_hall_calibration_host_f28379d.slx</file>
+    <file component="mcb" timestamp="1691775492">mcb_bldc_hall_seq_calib_flow_chart.png</file>
+    <file component="mcb" timestamp="1691775492">mcb_hall_calibration_f28069mLaunchPad.slx</file>
+    <file component="mcb" timestamp="1734707321">mcb_hall_calibration_f28069mLaunchPad_data.m</file>
+    <file component="mcb" timestamp="1734707321">mcb_hall_calibration_f28379d_data.m</file>
+    <file component="mcb" timestamp="1724935862">mcb_hall_calibration_host_f28069mLaunchPad.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HallOffsetExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HallOffsetExample.html</file>
+    <metadata>ex93607037</metadata>
+    <thumbnail>html/HallOffsetExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1734707064">HallOffsetCalibrationF28069m.slx</file>
+    <file component="mcb" open="open" timestamp="1734707064">HallOffsetCalibrationF28379d.slx</file>
+    <file component="mcb" timestamp="1734707064">OffsetCalibrationCallback.m</file>
+    <file component="mcb" timestamp="1734707064">OffsetCalibrationF28069mHost.slx</file>
+    <file component="mcb" timestamp="1734707064">OffsetCalibrationF28379dHost.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>IPMSMInitPosEstExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/IPMSMInitPosEstExample.html</file>
+    <metadata>ex93999518</metadata>
+    <thumbnail>data/mcb_init_rotor_pos_dep_exp1.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simscapeelectrical</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1708980785">mcb-init-rotor-pos-dual-pulse-sim-block-mask.png</file>
+    <file component="mcb" timestamp="1708980785">mcb-init-rotor-pos-dual-pulse-sim-data.png</file>
+    <file component="mcb" open="open" timestamp="1708980785">mcb_ipmsm_pos_est_f28379d.slx</file>
+    <file component="mcb" timestamp="1724936232">mcb_ipmsm_pos_est_f28379d_host_model.slx</file>
+    <file component="mcb" timestamp="1708980785">mcb_init_rotor_pos_sim_theta_plot.png</file>
+    <file component="mcb" timestamp="1708980785">mcb_init_rotor_pos_sim_Id_plot.png</file>
+    <file component="mcb" timestamp="1708980785">mcb_init_rotor_pos_dep_plot.png</file>
+    <file component="mcb" timestamp="1708980785">mcb_init_rotor_pos_dep_exp1.png</file>
+    <file component="mcb" timestamp="1708980785">mcb_init_rotor_pos_dep_exp2.png</file>
+    <file component="mcb" timestamp="1708980785">mcb_pmsmfoc_motor.png</file>
+    <file component="mcb" timestamp="1708980785">mcb_pmsmfoc_processor.png</file>
+    <file component="mcb" timestamp="1731098789">mcb_ipmsm_pos_est_f28379d_data.m</file>
+  </demoitem>
+  <demoitem>
+    <source>AUTOSARBasedPMSMFOCExample</source>
+    <project cmSystem="" component="mcb" open="open" type="main">MotorControlAUTOSAR</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/AUTOSARBasedPMSMFOCExample.html</file>
+    <metadata>ex94193225</metadata>
+    <thumbnail>data/mcb-autosar-classic-architecture.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>autosarblockset</product>
+    <product>systemcomposer</product>
+    <file component="mcb" timestamp="1714522466">mcb-autosar-classic-architecture.png</file>
+    <file component="mcb" timestamp="1714522466">mcb-autosar-system-model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>SensorlessFOCOfPMSMUsingIFBasedStartupExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SensorlessFOCOfPMSMUsingIFBasedStartupExample.html</file>
+    <metadata>ex95790528</metadata>
+    <thumbnail>html/SensorlessFOCOfPMSMUsingIFBasedStartupExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <product>simulinkcoder</product>
+    <file component="mcb" timestamp="1705350907">mcb_pmsm_foc_host_model_f28379d.slx</file>
+    <file component="mcb" open="open" timestamp="1718212444">mcb_pmsm_foc_sensorless_IFStartUp_f28379d.slx</file>
+    <file component="mcb" timestamp="1734709826">mcb_pmsm_foc_sensorless_IFStartUp_f28379d_datascript.m</file>
+    <workFolder>SensorlessIFPMSM</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>PMSMSpeedUsingADRCExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PMSMSpeedUsingADRCExample.html</file>
+    <metadata>ex98154552</metadata>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>mcb</product>
+    <product>simulink</product>
+    <product>control</product>
+    <product>slcontrol</product>
+    <product>ecoder</product>
+    <product>c2b</product>
+    <file component="mcb" timestamp="1691772952">mcb-adrc-critical-gain-meas-q.png</file>
+    <file component="mcb" timestamp="1691772952">mcb-adrc-critical-gain-block-dialog.png</file>
+    <file component="mcb" timestamp="1691772952">mcb-adrc-critical-gain-inject.png</file>
+    <file component="mcb" timestamp="1691772952">mcb-adrc-critical-gain-meas-q1.png</file>
+    <file component="mcb" timestamp="1691772952">mcb-adrc-critical-gain-script.png</file>
+    <file component="mcb" timestamp="1691772952">mcb-adrc-sim-results.png</file>
+    <file component="mcb" timestamp="1723551060">mcb_pmsm_adrc_host_model_f28379d.slx</file>
+    <file component="mcb" open="open" timestamp="1691772952">mcb_pmsm_adrc_qep_f28379d.slx</file>
+    <file component="mcb" timestamp="1734686088">mcb_pmsm_adrc_qep_f28379d_data.m</file>
+  </demoitem>
+</demos>
