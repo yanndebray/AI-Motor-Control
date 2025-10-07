@@ -1,7 +1,7 @@
 
 # Field\-Oriented Control of PMSM Using Position Estimated by Neural Network
 
-This example shows how to implement field\-oriented control (FOC) of a permanent magnet synchronous motor (PMSM) using a rotor position estimated by an autoregressive neural network (ARNN) trained with Deep Learning Toolbox™.          
+This [example](https://www.mathworks.com/help/mcb/gs/foc-pmsm-using-position-estimated-by-neural-network.html) shows how to implement field\-oriented control (FOC) of a permanent magnet synchronous motor (PMSM) using a rotor position estimated by an autoregressive neural network (ARNN) trained with Deep Learning Toolbox™.          
 
 
 An FOC algorithm requires real\-time rotor position feedback to implement speed control as well as to perform mathematical transformation on the reference stator voltages and feedback currents. Traditionally, such algorithms rely on physical sensors. However, due to increased accuracy and cost effectiveness, sensorless position estimation solutions can act as a better alternative to physical sensors.
