@@ -9,7 +9,7 @@
           d. Start Codespace in Jupyter
   See: https://containers.dev/implementors/features/
   */
-  "name": "MATLAB with Jupyter using Dev Container Features",
+  "name": "MATLAB Codespace using Dev Container Features",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/mathworks/devcontainer-features/matlab": {
@@ -71,3 +71,4 @@
   // Need to specify a user to use the startInDesktop feature.
   "containerUser": "vscode"
 }
+
