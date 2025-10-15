@@ -15,7 +15,7 @@
     "ghcr.io/mathworks/devcontainer-features/matlab": {
       // For more options, See: https://github.com/mathworks/devcontainer-features/tree/main/src/matlab
       "release": "r2025b",
-      "products": "MATLAB Simulink Motor_Control_Blockset Deep_Learning_Toolbox Statistics_and_Machine_Learning_Toolbox",
+      "products": "MATLAB Simulink Motor_Control_Blockset Deep_Learning_Toolbox",
       "installMatlabProxy": "true",
       "startInDesktop": "true",
       "installJupyterMatlabProxy": true,
@@ -71,4 +71,5 @@
   // Need to specify a user to use the startInDesktop feature.
   "containerUser": "vscode"
 }
+
 
